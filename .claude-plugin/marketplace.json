@@ -44,7 +44,7 @@
       "description": "Track your coding progress on a Miro board. Automatically syncs todos and task status to visual cards.",
       "source": "./claude-plugins/miro-tasks",
       "category": "development",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": {
         "name": "Miro",
         "email": "support@miro.com"
@@ -72,7 +72,7 @@
       "description": "Create customer-specific Miro plugins during sales calls. Rapid plugin generation for Solution Architects.",
       "source": "./claude-plugins/miro-solutions",
       "category": "development",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": {
         "name": "Miro",
         "email": "support@miro.com"
@@ -101,7 +101,7 @@
       "description": "Research any topic and visualize findings on Miro boards. Uses available tools (Glean, local repos) and creates docs, tables, and diagrams.",
       "source": "./claude-plugins/miro-research",
       "category": "productivity",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": {
         "name": "Miro",
         "email": "support@miro.com"
