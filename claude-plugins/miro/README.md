@@ -1,4 +1,4 @@
-# Miro Plugin
+# Miro Plugin (New Version)
 
 Secure access to Miro boards. Enables AI to read board context, create diagrams, and generate code with enterprise-grade security.
 
